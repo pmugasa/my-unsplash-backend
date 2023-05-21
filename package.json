@@ -1,0 +1,29 @@
+{
+  "name": "my-unsplash-backend",
+  "version": "1.0.0",
+  "description": "The backed to the frontend challenge from devChallenges",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmugasa/my-unsplash-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmugasa/my-unsplash-backend/issues"
+  },
+  "homepage": "https://github.com/pmugasa/my-unsplash-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
